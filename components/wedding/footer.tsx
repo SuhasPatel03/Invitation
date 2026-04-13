@@ -32,7 +32,7 @@ export function Footer() {
           May 8, 2026
         </p>
         <p className="font-serif text-cream/50 text-sm">
-          Kalsa, Karnataka
+          Kalasa, Karnataka
         </p>
 
         <div className="flex items-center justify-center gap-3 my-8">
