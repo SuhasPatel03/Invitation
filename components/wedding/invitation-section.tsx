@@ -123,7 +123,7 @@ export function InvitationSection() {
 >
   <span className="block">Shreyas Anand</span>
   <span className="block text-gold-dark">&</span>
-  <span className="block">Sudhanvi</span>
+  <span className="block">Sudhanvi S</span>
 </motion.h3>
 
 
