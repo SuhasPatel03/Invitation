@@ -109,12 +109,22 @@ export function InvitationSection() {
             You to join us in the wedding celebrations of
           </p>
 
-          <motion.h3 
+          {/* <motion.h3 
             whileHover={{ scale: 1.05 }}
             className="font-serif text-4xl md:text-5xl lg:text-6xl text-burgundy text-center font-light tracking-wider"
           >
             Shreyas Anand <span className="text-gold-dark">&</span> Sudhanvi S
           </motion.h3>
+           */}
+
+           <motion.h3 
+  whileHover={{ scale: 1.05 }}
+  className="font-serif text-4xl md:text-5xl lg:text-6xl text-burgundy text-center font-light tracking-wider"
+>
+  <span className="block">Shreyas Anand</span>
+  <span className="block text-gold-dark">&</span>
+  <span className="block">Sudhanvi</span>
+</motion.h3>
 
 
         </motion.div>

@@ -170,7 +170,7 @@ export function RSVPSection() {
               className="relative inline-flex items-center gap-3 px-10 py-5 bg-[#25D366] text-white rounded-full font-medium text-lg hover:bg-[#20BA5A] transition-all duration-300 hover:shadow-2xl hover:scale-105 group"
             >
               <MessageCircle className="w-6 h-6 group-hover:animate-pulse" />
-              <span>Shreyas</span>
+              <span>Shreyas </span>
             </a>
           </div>
 

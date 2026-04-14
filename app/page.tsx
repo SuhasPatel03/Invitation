@@ -17,6 +17,11 @@ export default function WeddingInvitation() {
       <HeroSection />
       <InvitationSection />
       <EventsSection />
+      <ParallaxTemple 
+  imageSrc="/images/temple-2.jpg"
+  subtitle="A Sacred Union"
+  title="Two Souls, One Journey"
+/>
       <CoupleSection />
       {/* Temple Parallax Section */}
 <ParallaxTemple 
